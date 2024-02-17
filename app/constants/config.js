@@ -1,0 +1,3 @@
+export const TIME_INTERVAL = 45
+export const RESTAURANT_OPENING_TIME = 10
+export const RESTAURANT_CLOSING_TIME = 23
